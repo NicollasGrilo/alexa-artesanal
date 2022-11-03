@@ -1,0 +1,26 @@
+button:disabled {
+    opacity: .4;
+    cursor: default;
+}
+button:disabled:hover {
+    background-color: rgb(232, 130, 130);
+}
+input[type=submit]:disabled {
+    opacity: .6;
+    cursor: default;
+}
+input[type=submit]:disabled:hover {
+    background-color: rgb(232, 130, 130);
+}
+.esconder {
+    display: none;
+}
+.form1 {
+    display: none;
+}
+.form2 {
+    display: none;
+}
+.form3 {
+    display: none;
+}
